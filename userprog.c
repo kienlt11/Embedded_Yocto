@@ -2,6 +2,6 @@
 int main()
 {
 
-	printf("Hello KienLT12 VF Team before pushing");
+	printf("Hello KienLT12 VF Team before pushing!!!\n");
 	return 0;
 }
